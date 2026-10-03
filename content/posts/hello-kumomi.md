@@ -1,7 +1,10 @@
 ﻿---
 title: "Hello, Kumomi"
+published: 2026-10-03
 description: "Kumomi 的第一篇文章"
-pubDate: 2026-10-03
+tags: [Kumomi]
+category: Blog
+draft: false
 ---
 
 # Hello, Kumomi
