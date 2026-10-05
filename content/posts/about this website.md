@@ -1,9 +1,10 @@
 ---
-title: about this website...
+title: "about this website"
 published: 2026-10-05
-description: website
-tags:
-  - 随笔
+description: "about this website"
+tags: [website]
+category: Blog
+draft: false
 ---
 
 # about this website
